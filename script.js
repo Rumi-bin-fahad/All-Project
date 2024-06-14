@@ -50,7 +50,7 @@ const assignments = [
         description: 'Color picker with range',
         date: '2024-06-01',
         time: '2:00 PM',
-        image: 'https://colorslurp.com/_ipx/f_png&q_85&s_3072x3398/images/home-hero-image.png',
+        image: 'https://i.stack.imgur.com/Dyprt.png',
         github: 'https://github.com/user/assignment2',
         demo: 'https://rumi-bin-fahad.github.io/JavaScript-Exercise/function-colorPicker/index.html'
     },
@@ -104,9 +104,18 @@ const assignments = [
         description: 'Pepsi Website Clone with some special animation and hover effects',
         date: '2024-06-01',
         time: '2:00 PM',
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIokF91Y095jbOZuhLTTFfAmNtufjokQXvVePC_CyLqQ&s',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTkFLTyB1LNqWjr7ideQ0HPZfVkM1varwkw&s',
         github: 'https://github.com/user/assignment2',
         demo: 'https://rumi-bin-fahad.github.io/Pepsi-clone/'
+    },
+    {
+        name: 'Daraz.Pk Clone',
+        description: 'Pakistan Huge Online Platform Daraz.pk Clone Version ',
+        date: '13-06-2024',
+        time: '2:00 PM',
+        image: 'https://daraz.com/wp-content/uploads/2023/07/AskDaraz.jpeg',
+        github: 'https://github.com/user/assignment2',
+        demo: 'https://rumi-bin-fahad.github.io/JavaScript-Exercise/filter%20javacript/index.html'
     },
     // Add more assignments here...
 ];
